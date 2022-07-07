@@ -1,2 +1,2 @@
-#Bear Builder Challenge
-A simple swap contract
+# Bear Builder Challenge
+A simple Reach swap contract
